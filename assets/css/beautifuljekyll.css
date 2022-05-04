@@ -47,7 +47,7 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: {{ site.link-col | default: "#008AFF" }};
+  color: #b9a4ff;
 }
 a:hover,
 a:focus {
@@ -812,6 +812,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 table {
   padding: 0;
+  color: #18181a;
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -864,6 +865,7 @@ pre {
   line-height: 1.5em;
   border-radius: 0.25rem;
   padding: 0.59375rem;
+  color: #fff;
 }
 .highlight pre {
   border: none;

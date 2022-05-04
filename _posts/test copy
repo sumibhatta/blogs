@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Git and Github
-subtitle: Indespensible part of morden software development
-gh-repo: sumibhatta
-gh-badge: []
-tags: [git, github]
+title: Sample blog post
+subtitle: Each post also has a subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
 comments: true
 ---
 

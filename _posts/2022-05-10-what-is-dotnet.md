@@ -9,11 +9,13 @@ tags: [.net, ]
 comments: true
 ---
 
-###Table of Content
+### Table of Content
 **_What is dotnet?_**  
 **_Different types of dotnets (.NET Framework, .NET Core, .NET 5)_**  
 **_Similarities and Differences_**  
 **_What to use?_**  
+
+
 
 
 

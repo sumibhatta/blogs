@@ -1,23 +1,66 @@
 ---
 layout: post
-title: What is dotnet?
+title: What is .NET?
 subtitle: (.NET Framework, .NET Core,.NET 5)?
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/dotnet.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/netthumb.jpg
 tags: [.net, ]
 comments: true
 ---
 
 ### Table of Content
-**_What is dotnet?_**  
-**_Different types of dotnets (.NET Framework, .NET Core, .NET 5)_**  
-**_Similarities and Differences_**  
-**_What to use?_**  
+**_ - What is dotnet?_**  
+**_ - Different types of dotnet (.NET Framework, .NET Core, .NET 5)_**  
+**_ - Some Jargons _**
+**_ - Similarities and Differences_**  
+**_ - What to use?_**  
 
+### What is .NET?   
+These days application developed in .NET runs everywhere . From Cloud and Web, Linux, Windows, macOS, mobile devices and iot devices too. .NET is a little of catch-all term. Some people mean it as a framework or the entire ecosystem(from compiler to runtimes to application people write). Moreover it could also have other meaning. To understand it we have to learn more about it. These days application developed in .NET runs everywhere.
 
+### Different types of .NETs
 
+**.NET Framework** is the oldest of all .NET runtimes. It is a SDK(Software Development Kit) with all accompanying classes and APIs. Since all the API were tied to Windows OS, MS no longer recommends it.  
 
+**.NET Core** is a cross platform runtime, which works on Linux, Windows and MacOS. Latest .NET Core Version is .NET Core 3.0 and there won't be technically new versions of .NET Core.
 
+**.NET 5** and **.NET 6** are the newest .NET runtimes. Technically it is versions of .NET Core but much more.
 
+**[Mono](https://www.mono-project.com/)** is a software platform designed to allow developers to easily create cross platform applications part of the .NET Foundation. Sponsored by Microsoft, Mono is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
+
+**.NET Standard** is a API specification rather than a SDK. i.e it is a blueprint of what API needs to be present for something to call itself compatible with .NET Standard. We can say that it specifies what BCL must be implemented for a given version.
+
+**ASP.NET** is an active server pages bought to .NET.
+
+**ASP.NET Core** is a way to create webapp with .NET Core.
+
+### Some Keywords
+
+**[CLR](http://vb.net-informations.com/framework/common_language_runtime.htm)** Common Language Runtime is an interface between OS and applications written in .net. It provides environment to execute .NET applications on target machine. It's main function is to convert Managed code into native code and execute the programs. 
+
+**BCL** Base Class Library is a set of classes provided bt .NET to build applications. It is essentially a collection of multiple libraries that provides various features such as Collections, XML, I/0, data type definitions for multiple programming languages.
+
+**JIT** Just in Time Compiler converts IL( Intermediate Language) to native code on demand.
+
+**IL** After compiling source code turns into IL. It is bundled into assembly known as IL(Intermediate Language). CLR then runs assembly.
+
+### Similarities and Differences between different runtimes
+
+**Similarities**
+- Have Runtime to interact with Host OS
+- Use BCL to write applications
+- Code Compiled into IL
+
+**Differences**
+- Less base class library in .NET Core than in .Net Framework
+
+### What to Use?
+
+Some Features of .NET 5:
+- It unites all .NET implementations
+- Has One Common Language Library
+- One Set of Base Class Libraries
+
+It is recommended to use .Net 5 or anything new. it's not that .net framework won't work, it is still supported but new technologies will be built upon newer versions so, preferably it is good to use .NET 5 or newer versions.
 

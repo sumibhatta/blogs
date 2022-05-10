@@ -5,7 +5,7 @@ subtitle: (.NET Framework, .NET Core,.NET 5)?
 cover-img: /assets/img/dotnet.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/netthumb.jpg
-tags: [.net, ]
+tags: [.net, .netframework, .netcore,.net5, .net6 ]
 comments: true
 ---
 
@@ -17,8 +17,7 @@ comments: true
 - **_What to use?_**  
 
 ### What is .NET?   
-These days application developed in .NET runs everywhere . From Cloud and Web, Linux, Windows, macOS, mobile devices and iot devices too. .NET is a little of catch-all term. Some people mean it as a framework or the entire ecosystem(from compiler to runtimes to application people write). Moreover it could also have other meaning. To understand it we have to learn more about it. These days application developed in .NET runs everywhere.
-
+These days application developed in .NET runs everywhere . From Cloud and Web, Linux, Windows, macOS, mobile devices and iot devices too. .NET is a little of catch-all term. Some people mean it as a framework or the entire ecosystem(from compiler to runtimes to application people write). Moreover it could also have other meaning. To understand it we have to learn more about it.
 ### Different types of .NETs
 
 **.NET Framework** is the oldest of all .NET runtimes. It is a SDK(Software Development Kit) with all accompanying classes and APIs. Since all the API were tied to Windows OS, MS no longer recommends it.  

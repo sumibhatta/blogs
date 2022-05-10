@@ -10,11 +10,11 @@ comments: true
 ---
 
 ### Table of Content
-**_ - What is dotnet?_**  
-**_ - Different types of dotnet (.NET Framework, .NET Core, .NET 5)_**  
-**_ - Some Jargons _**
-**_ - Similarities and Differences_**  
-**_ - What to use?_**  
+**_What is dotnet?_**  
+**_Different types of dotnet (.NET Framework, .NET Core, .NET 5)_**  
+**_Some Jargons_**
+**_Similarities and Differences_**  
+**_What to use?_**  
 
 ### What is .NET?   
 These days application developed in .NET runs everywhere . From Cloud and Web, Linux, Windows, macOS, mobile devices and iot devices too. .NET is a little of catch-all term. Some people mean it as a framework or the entire ecosystem(from compiler to runtimes to application people write). Moreover it could also have other meaning. To understand it we have to learn more about it. These days application developed in .NET runs everywhere.
@@ -29,7 +29,7 @@ These days application developed in .NET runs everywhere . From Cloud and Web, L
 
 **[Mono](https://www.mono-project.com/)** is a software platform designed to allow developers to easily create cross platform applications part of the .NET Foundation. Sponsored by Microsoft, Mono is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
 
-**.NET Standard** is a API specification rather than a SDK. i.e it is a blueprint of what API needs to be present for something to call itself compatible with .NET Standard. We can say that it specifies what BCL must be implemented for a given version.
+**.NET Standard** is an API specification rather than a SDK. i.e it is a blueprint of what API needs to be present for something to call itself compatible with .NET Standard. We can say that it specifies what BCL must be implemented for a given version.
 
 **ASP.NET** is an active server pages bought to .NET.
 
@@ -37,13 +37,13 @@ These days application developed in .NET runs everywhere . From Cloud and Web, L
 
 ### Some Keywords
 
-**[CLR](http://vb.net-informations.com/framework/common_language_runtime.htm)** Common Language Runtime is an interface between OS and applications written in .net. It provides environment to execute .NET applications on target machine. It's main function is to convert Managed code into native code and execute the programs. 
+**[CLR](http://vb.net-informations.com/framework/common_language_runtime.htm)** Common Language Runtime, an interface between OS and applications written in .net. It provides environment to execute .NET applications on target machine. It's main function is to convert Managed code into native code and execute the programs. 
 
 **BCL** Base Class Library is a set of classes provided bt .NET to build applications. It is essentially a collection of multiple libraries that provides various features such as Collections, XML, I/0, data type definitions for multiple programming languages.
 
 **JIT** Just in Time Compiler converts IL( Intermediate Language) to native code on demand.
 
-**IL** After compiling source code turns into IL. It is bundled into assembly known as IL(Intermediate Language). CLR then runs assembly.
+**IL:** After compiling source code turns into IL. It is bundled into assembly known as IL(Intermediate Language). CLR then runs assembly.
 
 ### Similarities and Differences between different runtimes
 
@@ -57,8 +57,8 @@ These days application developed in .NET runs everywhere . From Cloud and Web, L
 
 ### What to Use?
 
-Some Features of .NET 5:
-- It unites all .NET implementations
+.NET 5 and above:
+- Unites all .NET implementations
 - Has One Common Language Library
 - One Set of Base Class Libraries
 

@@ -10,11 +10,11 @@ comments: true
 ---
 
 ### Table of Content
-**_What is dotnet?_**  
-**_Different types of dotnet (.NET Framework, .NET Core, .NET 5)_**  
-**_Some Jargons_**
-**_Similarities and Differences_**  
-**_What to use?_**  
+- **_What is dotnet?_**  
+- **_Different types of dotnet (.NET Framework, .NET Core, .NET 5)_**    
+- **_Some Terms_**   
+- **_Similarities and Differences_**  
+- **_What to use?_**  
 
 ### What is .NET?   
 These days application developed in .NET runs everywhere . From Cloud and Web, Linux, Windows, macOS, mobile devices and iot devices too. .NET is a little of catch-all term. Some people mean it as a framework or the entire ecosystem(from compiler to runtimes to application people write). Moreover it could also have other meaning. To understand it we have to learn more about it. These days application developed in .NET runs everywhere.

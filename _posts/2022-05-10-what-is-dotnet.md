@@ -3,18 +3,18 @@ layout: post
 title: What is .NET?
 subtitle: (.NET Framework, .NET Core,.NET 5)?
 cover-img: /assets/img/dotnet.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/netthumb.jpg
 share-img: /assets/img/netthumb.jpg
 tags: [.net, .netframework, .netcore,.net5, .net6 ]
 comments: true
 ---
 
 ### What's inside...
-- **_[What is dotnet?](what-is-dotnet)_**  
-- **_[Different types of dotnet (.NET Framework, .NET Core, .NET 5)](different-types-of-nets)_**    
-- **_[Some Terms](some-keywords)_**   
-- **_[Similarities and Differences](similarities-and-differences-between-different-runtimes)_**  
-- **_[What to use?](what-to-use)_**  
+- **_[What is dotnet?](#what-is-net)_**  
+- **_[Different types of dotnet (.NET Framework, .NET Core, .NET 5)](#different-types-of-nets)_**    
+- **_[Some Terms](#some-keywords)_**   
+- **_[Similarities and Differences](#similarities-and-differences-between-different-runtimes)_**  
+- **_[What to use?](#what-to-use)_**  
 
 ### What is .NET?   
 These days application developed in .NET runs everywhere . From Cloud and Web, Linux, Windows, macOS, mobile devices and iot devices too. .NET is a little of catch-all term. Some people mean it as a framework or the entire ecosystem(from compiler to runtimes to application people write). Moreover it could also have other meaning. To understand it we have to learn more about it.

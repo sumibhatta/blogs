@@ -10,10 +10,10 @@ comments: true
 ---
 
 ### What's Inside 
-- **_[What is C#](#what-is-c))_** 
-- **_[C# development Stack](#c-development-stack))_** 
-- **_[First C# Program](#first-c-program))_** 
-- **_[Breaking Everything Apart](#breaking-everything-apart))_** 
+- **_[What is C#](#what-is-c)_** 
+- **_[C# development Stack](#c-development-stack)_** 
+- **_[First C# Program](#first-c-program)_** 
+- **_[Breaking Everything Apart](#breaking-everything-apart)_** 
 
 
 ### What is C#?   

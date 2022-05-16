@@ -3,8 +3,8 @@ layout: post
 title: Starting with C#?
 subtitle:
 cover-img: /assets/img/dotnet.jpg
-thumbnail-img: /assets/img/csharp.jpg
-share-img: /assets/img/csharp.jpg
+thumbnail-img: /assets/img/hello_world.jpeg
+share-img: /assets/img/hello_world_jpeg
 tags: [c#, csharp,.net ]
 comments: true
 ---

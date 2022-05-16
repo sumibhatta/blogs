@@ -9,18 +9,20 @@ tags: [.net, .netframework, .netcore,.net5, .net6 ]
 comments: true
 ---
 
-### Table of Content
-- **_What is dotnet?_**  
-- **_Different types of dotnet (.NET Framework, .NET Core, .NET 5)_**    
-- **_Some Terms_**   
-- **_Similarities and Differences_**  
-- **_What to use?_**  
+### What's inside...
+- **_[What is dotnet?](what-is-dotnet)_**  
+- **_[Different types of dotnet (.NET Framework, .NET Core, .NET 5)](different-types-of-nets)_**    
+- **_[Some Terms](some-keywords)_**   
+- **_[Similarities and Differences](similarities-and-differences-between-different-runtimes)_**  
+- **_[What to use?](what-to-use)_**  
 
 ### What is .NET?   
 These days application developed in .NET runs everywhere . From Cloud and Web, Linux, Windows, macOS, mobile devices and iot devices too. .NET is a little of catch-all term. Some people mean it as a framework or the entire ecosystem(from compiler to runtimes to application people write). Moreover it could also have other meaning. To understand it we have to learn more about it.
-### Different types of .NETs
 
-**.NET Framework** is the oldest of all .NET runtimes. It is a SDK(Software Development Kit) with all accompanying classes and APIs. Since all the API were tied to Windows OS, MS no longer recommends it.  
+### Different Types of .NETs
+ 
+**.NET Framework** is the oldest of all .NET runtimes. It is a SDK(Software Development Kit) with all accompanying classes and APIs. Since all the API were tied to Windows OS, MS no longer recommends it.   
+
 
 **.NET Core** is a cross platform runtime, which works on Linux, Windows and MacOS. Latest .NET Core Version is .NET Core 3.0 and there won't be technically new versions of .NET Core.
 
@@ -36,7 +38,11 @@ These days application developed in .NET runs everywhere . From Cloud and Web, L
 
 ### Some Keywords
 
-**[CLR](http://vb.net-informations.com/framework/common_language_runtime.htm)** Common Language Runtime, an interface between OS and applications written in .net. It provides environment to execute .NET applications on target machine. It's main function is to convert Managed code into native code and execute the programs. 
+**[CLR](http://vb.net-informations.com/framework/common_language_runtime.htm)** 
+CLR is the heart of .NET Platform, an interface between OS and applications written in .net. It is an environment that controls the execution of mananged code and ensures the execution of .NET programs on different hardware platforms and OS.
+
+It is an abstract computing machine. Similar to physical computers, it supports a set of instructions, registers, memory access and I/O operation.
+
 
 **BCL** Base Class Library is a set of classes provided bt .NET to build applications. It is essentially a collection of multiple libraries that provides various features such as Collections, XML, I/0, data type definitions for multiple programming languages.
 
@@ -61,5 +67,5 @@ These days application developed in .NET runs everywhere . From Cloud and Web, L
 - Has One Common Language Library
 - One Set of Base Class Libraries
 
-It is recommended to use .Net 5 or anything new. it's not that .net framework won't work, it is still supported but new technologies will be built upon newer versions so, preferably it is good to use .NET 5 or newer versions.
+It is recommended to use .Net 5 or anything new. It's not that .net framework won't work, it is still supported but new technologies will be built upon newer versions so, preferably it is good to use .NET 5 or newer versions.
 

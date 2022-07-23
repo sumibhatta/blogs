@@ -54,6 +54,7 @@ sudo ufw allow 1433
 sudo ufw allow 1434
 
 #### Step2: Download SSMS for Windows
+
 {: .box-warning}
 https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
 

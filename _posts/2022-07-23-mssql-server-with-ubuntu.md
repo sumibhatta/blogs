@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mssql server in ubuntu 21.04 + connecting it with SSMS in windows
+title: MSSQL server in Ubuntu 21.04 + Connecting it with SSMS in Windows
 subtitle:
 cover-img: /assets/img/dotnet.jpg
 thumbnail-img: /assets/img/hello_world.jpeg

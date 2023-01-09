@@ -386,12 +386,12 @@ footer p.text-muted {
 }
 
 footer a {
-  color: #fff;
+  color: #202020;
 }
 
 footer a:hover,
 footer a:focus {
-  color: #e6e6e6;
+  color: #000;
 }
 
 footer .list-inline {
@@ -792,7 +792,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #e6e6e6;
+  background-color: #000;
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
@@ -816,7 +816,8 @@ table {
 }
 table tr {
   border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  background-color: #18181a;
+  color: #fff;
   margin: 0;
   padding: 0;
 }
@@ -850,7 +851,7 @@ table tr td :last-child {
 code {
   padding: 0.125rem 0.25rem;
   color: #c7254e;
-  background-color: #f9f2f4;
+  background-color: #000;
   border-radius: 0.25rem;
 }
 

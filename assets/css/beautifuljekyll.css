@@ -878,7 +878,7 @@ pre {
   background-size: auto 3em;
   background-position-y: 0.625rem;
   border: 1px solid rgba(0,0,0,0.1);
-  border-left: 0.4375rem solid #B9A4FF;
+  /* border-left: 0.4375rem solid #B9A4FF; */
 }
 .highlight > pre:not([class~="highlight"]) { /* code block with line number */
   padding: 0;
@@ -892,7 +892,7 @@ pre {
   margin: 0;
 }
 .highlight pre.lineno {
-  color: rgba(0,0,0,0.3);
+  color: #fff;
   border-radius: 0;
   border-right: 2px solid #444;
 }

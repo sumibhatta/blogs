@@ -28,7 +28,7 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-weight: 600;
   line-height: 1.1;
 }
 h1 {
@@ -386,12 +386,12 @@ footer p.text-muted {
 }
 
 footer a {
-  color: #232327;
+  color: #fff;
 }
 
 footer a:hover,
 footer a:focus {
-  color: #232327;
+  color: #e6e6e6;
 }
 
 footer .list-inline {
@@ -792,7 +792,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 800;
   letter-spacing: 1px;
   padding: 0.625rem 0.3125rem;
-  background-color: #232327;
+  background-color: #e6e6e6;
   border-radius: 0;
   color: {{ site.text-col | default: "#404040" }};
 }
@@ -873,7 +873,7 @@ pre {
   margin: 0;
 }
 .highlight > pre {
-  background-image: linear-gradient( #18181a, #18181a 1.5em, #232327 1.5em, #232327 3em);
+  background-image: linear-gradient( #2f2f2f, #2f2f2f 1.5em, #2f2f2f 1.5em, #2f2f2f 3em);
   background-size: auto 3em;
   background-position-y: 0.625rem;
   border: 1px solid rgba(0,0,0,0.1);
@@ -931,31 +931,35 @@ pre {
 .box-success {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
-  border: 1px solid #232327;
+  border: 1px solid #2f2f2f;
   border-left-width: 0.3125rem;
   border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
 }
 
 .box-note {
-  background-color: #232327;
+  background-color: #2f2f2f;
   border-left-color: #2980b9;
 }
 
 .box-warning {
-  background-color: #232327;
+  background-color: #2f2f2f;
   border-left-color: #f1c40f;
 }
 
 .box-error {
-  background-color: #232327;
+  background-color: #2f2f2f;
   border-left-color: #c0392b;
 }
 
 .box-success {
-  background-color: #232327;
+  background-color: #2f2f2f;
   border-left-color: #3CB371;
 }
 
+.box-warning>tbody>tr {
+  background-color: #2f2f2f;
+  color: white;
+}
 /* --- Misc blog post styles --- */
 
 .blog-post :first-child {
@@ -994,6 +998,11 @@ pre {
 
 .blog-post blockquote p:last-child {
   margin-bottom: 0;
+}
+
+.blog-post{
+  background: #171717;
+  padding: 2rem;
 }
 
 .center {

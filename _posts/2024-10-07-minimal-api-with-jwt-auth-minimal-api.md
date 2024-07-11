@@ -61,9 +61,12 @@ public class UserLogin
 
 **2) Update Program.cs for Minimal Endpoints:**
 - Open the Program.cs file and add the following minimal endpoints before **app.Run(); :**
+
 ```csharp
 ...
+
 ...
+
 ...
 app.MapPost("/login", (UserLogin userLogin) =>
 {

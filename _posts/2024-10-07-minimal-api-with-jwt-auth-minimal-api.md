@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  JWT Authentication in ASP.NET Core Minimal APIs with Swagger
-subtitle: (.NET 8,Swagger, Minimal APIs, JWT Authentication)?
+title: JWT Authentication in ASP.NET Core Minimal APIs with Swagger
+subtitle: 
 cover-img: /assets/img/dotnet.jpg
 thumbnail-img: /assets/img/netthumb.jpg
 share-img: /assets/img/netthumb.jpg
